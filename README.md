@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Calculator & Calculation History
 
 A beginner-friendly Calculator Web Application built with:
@@ -61,3 +62,6 @@ calculator_history
 ```
 
 No backend or database is required.
+=======
+# Calculator-App
+>>>>>>> c0adda093c93d44a5eb6fa53fd1fc7343b3441f0
