@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple Calculator & Calculation History
 
 A beginner-friendly Calculator Web Application built with:
@@ -57,7 +57,6 @@ npm run build
 
 History is saved using:
 
-```text
 calculator_history
 ```
 
